@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    
+}
+
+
+.bg-index {
+    background-image: url(pizza-unsplash.jpg);
+    z-index: -1;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logoheader {
+    left: 5%;
+    height: 30%;
+    padding-top: 5em;
+    position: absolute;
+
+}
+
+.txt-startseite {
+    margin-top: 3em;
+    margin-left: 3em;
+    margin-right: 80%;
+    position: absolute;
+}
+
+
+.card2 {
+    background-color: white;
+    border-radius: 4em;
+    margin-top: -15em;
+    margin-left: 6em;
+    margin-right: 6em;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+.card3 {
+    margin-top: 30px;
+    background-color: white;
+    border-radius: 4em;
+    margin-left: 6em;
+    margin-right: 6em;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5em;
+    padding-left: 3em;
+    padding-right: 3em;
+    
+}
+
+.style2 {
+    background-color: #e2e2e2;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}  
+
+.backgroundform {
+    background-color: #e2e2e2;
+
+}
+
+.textarea {
+    margin-left: 2.5em;
+    margin-right: 2.5em;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 100px;
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 16px;
+
+}
+
+input {
+    height: 48px;
+    margin-bottom: 32px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+button {
+    height: 48px;
+    background-color: #0fab0f;
+    color: white;
+    border: unset;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #29b929;
+}
+
+
+
+h1 {
+    color: #000000;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+header h1 {
+    color: #ffffff;
+    font-size: 3em;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    padding-top: 7em;
+}
+
+header h3 {
+    color: #ffffff;
+    font-size: 2em;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+}
+
+p{
+    color: #000000;
+    font-size: 17pt;
+    font-family: canada-type-gibson, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+   
+}
+
+.qr {
+    width: 50%;
+}
+
+footer {
+    background-color: #989898;
+    width: 100%;
+    height: 35%;
+    margin-top: 3em;
+}
+
+.footerlogo {
+    width: 10em;
+}
+
+.dfooter {
+    padding-top: 3em;
+}
